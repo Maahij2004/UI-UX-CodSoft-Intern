@@ -1,4 +1,4 @@
 I was fortunate to secure an internship opportunity at CodSoft as a UI/UX designer. During my time here, I have worked on and successfully completed multiple projects that have enhanced my design skills, user research abilities, and problem-solving techniques. These projects have allowed me to apply my knowledge in real-world scenarios, improve user experiences, and contribute to meaningful design solutions. This internship has been a valuable learning experience, helping me refine my creativity, proficiency in design tools, and understanding of user-centric design principles. Thanks for CodSoft team for giving me this wonderful oppurtunity.
 
 **PS: Every project in these videos are made through figma. The link for each project is described here,
- 1 st project = https://www.figma.com/proto/F3RmbSbdrBba5KgvdxrV5M/Mobile-Sign-Flow?node-id=602-23&starting-point-node-id=602%3A23&t=nnOBZ1PpmpEffvh3-1****
+ 1 st project = "https://www.figma.com/proto/F3RmbSbdrBba5KgvdxrV5M/Mobile-Sign-Flow?node-id=602-23&starting-point-node-id=602%3A23&t=nnOBZ1PpmpEffvh3-1"****
